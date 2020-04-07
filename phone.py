@@ -28,4 +28,4 @@ def NumberGenerator (s) :
 			file.write(i)
 			file.write("\n")
 
-print(NumberGenerator("964XXXXX60"))
+print(NumberGenerator("+964XXXXX60"))
